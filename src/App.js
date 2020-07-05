@@ -50,8 +50,8 @@ class App extends React.Component {
             {data ? <Chart data={data} country={country} /> : "LOading"}
             <p>Developer.... Abhay Raj Singh Rathore</p>
         <ul className='list'>
-        <li><SocialMediaIconsReact icon="linkedin" url="www.linkedin.com/in/abhay-raj-singh-rathore-54078a160/" /></li>
-        <li><SocialMediaIconsReact icon="mail"/></li>
+        <li><SocialMediaIconsReact icon="linkedin" url="https://www.linkedin.com/in/abhay-raj-singh-rathore-54078a160/" /></li>
+        //<li><SocialMediaIconsReact icon="mail"/></li>
         <li><SocialMediaIconsReact icon="instagram" url="https://www.instagram.com/abhay.raj.sr/"/></li>
         </ul> 
         </div>
