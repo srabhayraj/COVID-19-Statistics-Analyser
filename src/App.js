@@ -53,7 +53,7 @@ class App extends React.Component {
         <ul className='list'>
         <li><SocialMediaIconsReact icon="linkedin" url="https://www.linkedin.com/in/abhay-raj-singh-rathore-54078a160/" /></li>
         <li><SocialMediaIconsReact icon="mail" url="https://mail.google.com/mail/u/1/#inbox?compose=new/" /></li>
-        <li><SocialMediaIconsReact icon="instagram" url="https://www.instagram.com/abhay.raj.sr/"/></li>
+        <li><SocialMediaIconsReact icon="instagram" url="https://www.instagram.com/abhay_raj_sr/"/></li>
         </ul> 
         </div>
     }
