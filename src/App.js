@@ -28,6 +28,7 @@ class App extends React.Component {
                 <ul>
                     <li>Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus</li>
                     <li>Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.</li>
+                    <li>Most common symptoms are fever, dry cough and tiredness and if anyone experiencing difficulty in breathing or shortness of breadth, chest pain or pressure, loss of speech or movement then he/she must immediately see a doctor. They are the major symptoms of COVID-19.</li>
                 </ul>
             </div>
             <div className='covid-spread'>
